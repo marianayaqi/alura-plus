@@ -115,3 +115,8 @@ body {
     font-size: 32px;
     color: var(--branco-principal);
 }
+
+.rodape {
+   text-align: center;
+}
+
