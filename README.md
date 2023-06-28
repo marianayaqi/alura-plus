@@ -41,7 +41,7 @@ Criado junto ao time da  Alura e a professora  👩‍💻</p>
 
 <br>
 <h3>
-  🕹️ Este projeto foi desenvolvido por Monica Hilman, do canal <a  href="https://www.youtube.com/@Alura" target="_blank">"Canal Alura".</a>
+  🕹️ Este projeto foi desenvolvido por Monica Hilman, do canal Alura<a  href="https://linktr.ee/monicahillman" target="_blank">"Canal Alura".</a>
   <br>
 
  
