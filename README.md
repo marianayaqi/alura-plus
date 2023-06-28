@@ -29,7 +29,7 @@ Criado junto ao time da  Alura e a professora  👩‍💻</p>
 <h2 align="center">Versão desktop<h2>
 <br>
 <p align="center">
-  <img alt="License" src="./img/projeto.png>
+  <img alt="License" src="./img/projeto.png">
 </p>
 
 
